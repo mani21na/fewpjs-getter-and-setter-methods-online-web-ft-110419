@@ -6,4 +6,6 @@ class Circle {
   get pi() {
     return Math.PI(this.radius)
   }
+  
+  get diameter
 }
