@@ -1,6 +1,6 @@
 let circle;
 
-describe( "Circle", () => {
+( "Circle", () => {
   beforeEach( () => {
     circle = new Circle( 6 )
   } )
