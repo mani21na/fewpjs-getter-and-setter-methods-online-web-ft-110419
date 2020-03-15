@@ -4,6 +4,6 @@ class Circle {
   }
   
   get pi() {
-    return Math.PI
+    return Math.PI(this.radius)
   }
 }
